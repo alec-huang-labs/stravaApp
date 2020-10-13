@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    margin: 1;
+    background-color:#191A1A;
+    color: #e34900;
+}
+/*strava hex: #e34900*/
+/*mapbox light grey hex: #919191*/
+#left-container{
+    display: flex;
+    flex-direction: column;
+}
+#map { 
+    height: 675px;
+    width: 50%;
+    display:block
+}
+
